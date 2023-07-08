@@ -16,4 +16,4 @@
 
 - Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.
 
-<img src="https://i.ibb.co/YN0g75y/remove.jpg"/>
+<img src="https://monosnap.com/image/nslkFlfM6R3314iv3fO8wobI5DzSGH"/>
